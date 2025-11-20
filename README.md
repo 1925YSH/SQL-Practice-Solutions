@@ -1,5 +1,4 @@
-# SQL Practice Solutions – By Yash Otwal
-
+# SQL Practice Solutions – 
 This repository contains SQL programs demonstrating my hands-on working knowledge in database design, querying, joins, filtering, grouping, and writing test scenarios for application development.
 
 ## Contents
